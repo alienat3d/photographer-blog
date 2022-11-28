@@ -12,12 +12,12 @@ body {
 
 body input:focus:required:invalid,
 body textarea:focus:required:invalid {
-  /*color: red;*/
+  /* color: tomato; */
 }
 
 body input:required:valid,
 body textarea:required:valid {
-  /*color: green;*/
+  /* color: seagreen; */
 }
 
 .hidden {
